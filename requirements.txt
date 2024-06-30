@@ -2,6 +2,7 @@ streamlit
 python-dotenv
 google.generativeai
 langchain==0.0.223
+langchain_community
 PyPDF2
 pinecone-client
 sumy
